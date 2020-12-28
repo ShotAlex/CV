@@ -36,7 +36,7 @@
         - Institute of psychology. correspondence. - **master of psychology**
 
 7. ### English
-    - Level: **A2+**
+    - Level: **B1**
     - English at school 
     - Technical English at University
     - [duolingo](https://www.duolingo.com/profile/Alex670046), serials like at young Sheldon, ALF, Gravity Falls and etc.s
