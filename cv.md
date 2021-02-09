@@ -13,12 +13,14 @@
     > and web development. Become an integral member of the team 
     > that you can rely on. I like to program, 
     > communicate and when my brain works.
+    
 4. ### Skills
-    - HTML. CSS(SCSS), 
+    - HTML5, CSS3(SCSS), Styled-components
     - TypeScript, JavaScript (ES5, ES6+)
-    - React, Redux
+    - React, Redux, MobX
     - Webpack, Gulp
-    - Git
+    - Git, Github
+    - VS Code, Webstorm, Figma
     - and etc.
 
 5. ### Experience 
