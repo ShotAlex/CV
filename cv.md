@@ -1,4 +1,4 @@
-# [rsschool-cv](https://shotalex.github.io/CV/)
+# [CV](https://shotalex.github.io/CV/)
 
 1. ### Alexandr Shot
 
